@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "email": "george.bluth@reqres.in",
+      "password": "123"
+    }
+  ],
+  "todoList": [
+    {
+      "task": "go to collage",
+      "category": "Personal",
+      "isChecked": true,
+      "id": 2
+    },
+    {
+      "task": "send parcel",
+      "category": "Private",
+      "isChecked": true,
+      "id": 3
+    },
+    {
+      "task": "buy milk",
+      "category": "Public",
+      "isChecked": false,
+      "id": 6
+    },
+    {
+      "task": "go to watch movie",
+      "category": "Personal",
+      "isChecked": true,
+      "id": 7
+    },
+    {
+      "task": "build resume",
+      "category": "Private",
+      "isChecked": true,
+      "id": 8
+    },
+    {
+      "task": "play cricket",
+      "category": "Public",
+      "isChecked": false,
+      "id": 9
+    },
+    {
+      "task": "adding task",
+      "category": "Public",
+      "isChecked": false,
+      "id": 10
+    },
+    {
+      "task": "send email",
+      "category": "Personal",
+      "isChecked": false,
+      "id": 11
+    }
+  ]
+}
